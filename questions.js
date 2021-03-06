@@ -1,5 +1,5 @@
 var questions = [
-  ["Que zappé Sabrina quand elle est stressé ?", "des pommes", " Des pommes de pin", "Elle ne l'est jamais","Des ananas", "4"],
+  ["Que fait Sabrina quand elle est stressé ?", "des pommes", " Des pommes de pin", "Elle ne l'est jamais","Des ananas", "4"],
   ["Dans quelle saison se trouve Sabrina dans une école militaire ?", " Saison 1", " Saison 2", "  Saison 3", "Jamais","2"],
   ["Quel est le thème de la soirée Halloween organiser par tente bioula ?", "Hôpital", "Asile pour cleptomanes ", "Asile de fou ", "Hôpital psychiatrique","3"],
   [" Quel est le point commun entre la saison 1 et la saison 3?", "Sabrina a les cheveux courts", " Valérie est la meilleure amie de Sabrina", "Il y a 24 épisodes dans chaque une des saisons ", "L'épisode de la st-valentain est le 16 dans les 2 saison","4"],
